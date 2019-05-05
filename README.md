@@ -1,7 +1,7 @@
 # introduction
 ## the data_process.py
 
-in this file, I encode the raw adult.data and adult.test, and get the train_data.csv and test_data.csv to put into  the net,  which consists of numbers
+in this file, I encode the raw adult.data and adult.test, and get the train_data.csv and test_data.csv to be put into the net.
 
 
 ## the adult_classifer.py
