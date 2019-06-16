@@ -1,5 +1,5 @@
 # introduction
-This 
+This project is a homework for Data Mining
 ## the data_process.py
 
 In this file, I encode the raw adult.data and adult.test, and get the train_data.csv and test_data.csv to be put into the net.
